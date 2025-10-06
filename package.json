@@ -1,0 +1,17 @@
+{
+  "name": "product-crud-mvc",
+  "version": "1.0.0",
+  "description": "Product CRUD API using Node.js, Express, MongoDB, and Mongoose (MVC Pattern)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
